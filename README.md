@@ -1,2 +1,2 @@
 # UrlShortener
-Root context contains the help page
+Context root contains the help page
