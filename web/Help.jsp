@@ -4,7 +4,6 @@
     Author     : Vilim
 --%>
 
-<%@page import="com.vkraji.commons.Commons"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
