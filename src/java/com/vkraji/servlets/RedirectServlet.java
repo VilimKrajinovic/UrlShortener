@@ -9,7 +9,6 @@ import com.vkraji.commons.Commons;
 import com.vkraji.models.LongUrl;
 import com.vkraji.repo.Repository;
 import java.io.IOException;
-import java.io.PrintWriter;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;

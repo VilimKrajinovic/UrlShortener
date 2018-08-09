@@ -5,7 +5,6 @@
  */
 package com.vkraji.helpers;
 
-import com.vkraji.models.Account;
 import java.nio.charset.Charset;
 import java.util.Base64;
 
